@@ -6,6 +6,14 @@
   <?php echo "See siin on meelepärane string"; 
 		echo "<br>";
 		echo "Sinu teksti esimene pool" . " ja sinu teksti teine pool.";?>
+		 <br>
+	<?php echo 2 + 3; ?>	
+	 <br>
+	 <?php echo 2 * 4; ?>
+	 <br>
+	 <?php echo 2 / 4; ?>
+	 <br>
+	 <?php echo 4 - 2; ?>
 </head>
 
 <body>
